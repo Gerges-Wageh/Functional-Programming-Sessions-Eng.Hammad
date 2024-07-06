@@ -18,7 +18,7 @@ Welcome to the repository that contains all the examples discussed in the Functi
 
 ## Introduction
 
-This repository contains a collection of valuable functional programming examples discussed during the sessions by Eng. Mohammed Hammad. The aim is to provide clear and concise examples that illustrate key concepts in functional programming, making it easier for developers to grasp and apply these principles in their own projects.
+This repository contains a collection of valuable functional programming examples discussed during the sessions by Eng. Mohammed Hammad. The aim is to provide clear and concise examples that illustrate key concepts in functional programming, making it easier for developers to grasp and apply these principles in their own projects.\
 You can find the complete recorded sessions via this [Link](https://www.youtube.com/playlist?list=PLpbZuj8hP-I6F-Zj1Ay8nQ1rMnmFnlK2f)
 ## Prerequisites
 
@@ -32,7 +32,7 @@ To run the examples in this repository, you will need:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone [https://github.com/your-username/functional-programming-examples.git](https://github.com/Gerges-Wageh/Functional-Programming-Sessions-Eng.Hammad.git)
+git clone https://github.com/your-username/functional-programming-examples.git
 
 
 
