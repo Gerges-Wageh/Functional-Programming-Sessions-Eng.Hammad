@@ -54,7 +54,7 @@ To run the examples, open the project in your preferred IDE and execute the main
 
 
 <a name="Session-1-introduction-to-declarative-programming"></a>
-## Session 1: Introduction To Declarative Programming
+### Session 1: Introduction To Declarative Programming
 In this session example we discussed an OOP style code with global states to contrast how bad the idea of global states.
 
         
@@ -78,22 +78,24 @@ The solution constructed two pipelines, the first pumping data through a functio
 
 
 <a name="session-5-function-composition"></a>
-## Session 5: Function Composition
+### Session 5: Function Composition
 This session discussed a very critical concept in functional programming which is Function Composition. We see the power of function composition in the session 6 example. 
 
 
 
 <a name="session-6-comprehensive-real-life-problem"></a>
-## Session 6: Comprehensive Real Life Problem
+### Session 6: Comprehensive Real Life Problem
 In this session we solved a huge real life business problem, an outstanding example to cover all the functional programming concepts so far. We saw how Function Composition is a powerful property to develop a testble, extendable and robust code for a very complex problem while maintaning the granularity.
 
 
 <a name="session-7-closures"></a>
-## Session 7: Closures
+### Session 7: Closures
 In this session we discussed the concept of closures and saw the benifit of returning a function that maintaing state inside from another function.
 
 
 <a name="session-8-linq-or-java-stream-api-under-the-hood"></a>
-## Session 8: LINQ or Java Stream API Under The Hood
+### Session 8: LINQ or Java Stream API Under The Hood
 This is the most interesting part, when you understand the whole magic, and how things work under the hood.
 
+## Acknowledgments
+Special thanks to the great Eng. Mohammed Hammad for his insightful sessions on functional programming.
