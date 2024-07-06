@@ -71,7 +71,7 @@ We illustrated the concept of "Higher-Order function" via an example where we us
         
         
 <a name="session-4-comprehensive-example"></a>
-## Session 4: Comprehensive Example
+### Session 4: Comprehensive Example
 In this session we discussed an example that may change your way of thinking about programming, the example illustrates the idea of looping over a list of functions and pumping them through the                 pipeline as we deal with data!\
 The solution constructed two pipelines, the first pumping data through a function which internally pumping a list of functions though another pipeline to apply them on the same piece of data!
 
