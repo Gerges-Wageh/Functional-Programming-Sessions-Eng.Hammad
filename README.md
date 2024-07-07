@@ -36,7 +36,7 @@ To run the examples in this repository, you will need:
 Clone this repository to your local machine using the following command:
 
 ```bash
-git clone https://github.com/your-username/functional-programming-examples.git
+git clone https://github.com/Gerges-Wageh/Functional-Programming-Sessions-Eng.Hammad.git
 ```
 
 Navigate to the project directory:
