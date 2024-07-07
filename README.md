@@ -1,6 +1,5 @@
 # Functional Programming Examples by Eng. Mohammed Hammad in Java
-### "Functional Programming is all about making programming soild and robust as mathematics and should be viewed from that point"
-
+<h2 align="center">"Functional Programming is all about making programming soild and robust as mathematics and should be viewed from that point"</h2>
 Welcome to the repository that contains all the examples discussed in the Functional Programming sessions by Eng. Mohammed Hammad. This repository serves as a comprehensive resource for understanding various functional programming concepts through practical examples.
 
 ## Table of Contents
